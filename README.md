@@ -18,4 +18,4 @@
 Force la désactivation de la barre de défillement
 
 **bindCss** *(Boolean - Default: false)*
-Active ou non le plugin bindCss permettant l'ajustement en direct de la hauteur de l'iframe en cas de modification de celle ci.
+Active ou non le plugin bindCss ( voir: https://github.com/johnstyle/jQuery-bindCss ) permettant l'ajustement en direct de la hauteur de l'iframe en cas de modification de celle ci.
