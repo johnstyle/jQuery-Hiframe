@@ -4,7 +4,7 @@
 ##Utilisation :##
 ```html
 	<script type="text/javascript" src="http://code.jquery.com/jquery-1.7.2.min.js"></script>
-	<script type="text/javascript" src="http://labs.meqia.fr/wp-content/uploads/jquery.Hiframe.js"></script>
+	<script type="text/javascript" src="https://raw.github.com/johnstyle/jQuery-Hiframe/master/jquery.Hiframe.js"></script>
 	<script type="text/javascript">
 		jQuery(function(){
 			jQuery('iframe').Hiframe();
