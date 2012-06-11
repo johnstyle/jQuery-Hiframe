@@ -1,10 +1,10 @@
 ﻿/*!
  * jQuery Hiframe Plugin
- * http://labs.meqia.fr/plugins-jquery/hiframe/
+ * http://www.johnstyle.fr/labs/jquery-hiframe/
  *
  * Copyright 2012, Jonathan Sahm
  * Dual licensed under the MIT or GPL Version 2 licenses.
- * http://labs.meqia.fr/license
+ * http://www.johnstyle.fr/license/
  *
  * @author Jonathan Sahm
  * @version 1.0

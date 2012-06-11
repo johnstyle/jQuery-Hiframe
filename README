@@ -1,19 +1,20 @@
 ﻿Hiframe est un plugin jQuery permettant de redimensionner automatiquement la hauteur d’une iframe suivant son contenu et d’éviter ainsi d’avoir la fameuse barre de défilement (srcoll).
 
 
-Utilisation :
+*Utilisation :*
 ------------------------------------------------------------------------
-<script type="text/javascript" src="http://code.jquery.com/jquery-1.7.2.min.js"></script>
-<script type="text/javascript" src="http://labs.meqia.fr/wp-content/uploads/jquery.Hiframe.js"></script>
-<script type="text/javascript">
-	jQuery(function(){
-		jQuery('iframe').Hiframe();
-	});
-</script>
-<iframe frameborder="0" scrolling="no" allowtransparency="true" src="http://www.google.fr"></iframe>
+<pre>
+	<script type="text/javascript" src="http://code.jquery.com/jquery-1.7.2.min.js"></script>
+	<script type="text/javascript" src="http://labs.meqia.fr/wp-content/uploads/jquery.Hiframe.js"></script>
+	<script type="text/javascript">
+		jQuery(function(){
+			jQuery('iframe').Hiframe();
+		});
+	</script>
+	<iframe frameborder="0" scrolling="no" allowtransparency="true" src="http://www.google.fr"></iframe>
+</pre>
 
-
-Options :
+*Options :*
 ------------------------------------------------------------------------
 scrolling (Boolean - Default: false)
 Force la désactivation de la barre de défillement
